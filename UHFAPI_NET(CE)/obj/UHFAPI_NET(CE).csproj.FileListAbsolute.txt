@@ -1,0 +1,10 @@
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\bin\Release\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\bin\Release\UHFAPI_NET(CE).pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Release\ResolveAssemblyReference.cache
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Release\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Release\UHFAPI_NET(CE).pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\bin\Debug\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\bin\Debug\UHFAPI_NET(CE).pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Debug\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\UHFAPI_NET(CE)\obj\Debug\UHFAPI_NET(CE).pdb

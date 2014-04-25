@@ -1,0 +1,72 @@
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\DOTUHF-Csharp.exe
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\DOTUHF-Csharp.pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\UHFAPI_NET(CE).pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\ResolveAssemblyReference.cache
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.ConfigForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.CustomForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.LockKillForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MainForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MaskForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MultiForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.NormalForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.Properties.Resources.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.ReadWriteForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.SingleForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.csproj.GenerateResource.Cache
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.exe
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\DOTUHF-Csharp.exe
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\DOTUHF-Csharp.pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\UHFAPI_NET(CE).dll
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\UHFAPI_NET(CE).pdb
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.ConfigForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.CustomForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.LockKillForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MainForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MaskForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MultiForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.NormalForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.Properties.Resources.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.ReadWriteForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.SingleForm.resources
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.csproj.GenerateResource.Cache
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.exe
+D:\DOTEL\RFID\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\DOTUHF-Csharp.exe
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\DOTUHF-Csharp.pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\UHFAPI_NET(CE).dll
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Debug\UHFAPI_NET(CE).pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.ConfigForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.CustomForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.LockKillForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MainForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MaskForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.MultiForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.NormalForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.Properties.Resources.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.ReadWriteForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF_Csharp.SingleForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.exe
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Debug\DOTUHF-Csharp.pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\DOTUHF-Csharp.exe
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\DOTUHF-Csharp.pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\UHFAPI_NET(CE).dll
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\bin\Release\UHFAPI_NET(CE).pdb
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.ConfigForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.CustomForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.LockKillForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MainForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MaskForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.MultiForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.NormalForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.Properties.Resources.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.ReadWriteForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF_Csharp.SingleForm.resources
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.exe
+C:\Users\user\Desktop\Daily Work\1402\21\DOTUHF-Csharp\DOTUHF-Csharp\obj\Release\DOTUHF-Csharp.pdb
